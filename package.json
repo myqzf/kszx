@@ -1,0 +1,20 @@
+{
+  "name": "ks",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "qzf",
+  "description": "考试端",
+  "productName": "ks",
+  "build": {
+	  "appId": "com.kszx",
+	  "dmg": {
+		"background": "res/img.png",
+		"window":{
+			"x":100,
+			"y": 100,
+			"width":500,
+			"height":300
+			}
+		}
+	}
+}
